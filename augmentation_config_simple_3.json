@@ -1,0 +1,11 @@
+{
+  "keep_original": false,
+  "augmentations": [
+    {
+      "name": "combo_salt_blur",
+      "salt_pepper_noise": [0.05, 0.05],
+      "motion_blur": 12,
+      "comment": "添加椒盐噪声，各2%概率"
+    }
+  ]
+}
