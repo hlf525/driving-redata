@@ -1,1 +1,1 @@
-## This repository does not contain the original State Farm images or derivative image datasets. Please download the original data from the official Kaggle competition page and comply with Kaggle Competition Rules.
+This repository does not contain the original State Farm images or derivative image datasets. Please download the original data from the official Kaggle competition page: https://www.kaggle.com/c/state-farm-distracted-driver-detection, and comply with Kaggle Competition Rules.
